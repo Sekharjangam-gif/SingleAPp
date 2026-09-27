@@ -1,6 +1,2 @@
-# SingleAPp
+# SingleAPP
 #adding the personal information
-
-
-
-jhvhjvjhjh
